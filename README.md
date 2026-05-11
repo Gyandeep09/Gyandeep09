@@ -1,10 +1,7 @@
-# Hi there, I'm Gyandeep 👋
-
-🎓 Full-Stack Web Developer from Assam, India  
-💻 Building PHP + MySQL web applications  
-🏫 Creator of the Chi-Chia School Admission Portal  
-🌱 Currently learning: React.js & REST APIs
-
+# Gyandeep | Full-Stack Developer 🔰
+🚀 Dedicated to building **efficient, user-centric** web applications  
+💻 Lead Developer for the **Chi-Chia School Admission Portal  **  
+📚 Currently expanding my stack with **React.js** & REST APIs
 ---
 
 ### 🛠 Tech Stack
