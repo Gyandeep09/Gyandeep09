@@ -1,7 +1,7 @@
 # Gyandeep | Full-Stack Developer 🔰
-🚀 Dedicated to building efficient, user-centric** web applications  
-💻 Lead Developer for the Chi-Chia School Admission Portal 
-📚 Currently expanding my stack with React.js & REST APIs
+🚀 Dedicated to building **efficient, user-centric** web applications  
+💻 Lead Developer for the **Chi-Chia Institutional Management System**  
+📚 Currently expanding my stack with **React.js**
 
 ---
 
