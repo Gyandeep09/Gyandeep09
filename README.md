@@ -1,7 +1,7 @@
 # Gyandeep | Full-Stack Developer 🔰
 🚀 Dedicated to building **efficient, user-centric** web applications  
 💻 Lead Developer for the **Chi-Chia Institutional Management System**  
-📚 Currently expanding my stack with **React.js**
+📚 Currently expanding my stack with **React.js** and other **APIs**
 
 ---
 
