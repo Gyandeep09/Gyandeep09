@@ -1,41 +1,36 @@
 # Gyandeep | Full-Stack Developer 🔰
-🚀 Dedicated to building **efficient, user-centric** web applications  
-💻 Lead Developer for the **Chi-Chia Institutional Management System**  
-📚 Currently expanding my stack with **React.js** and other **APIs**
+
+Dedicated to building efficient, user-centric web applications and modern digital systems.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Current Focus
+* 🛠️ **3D Simulation:** Engineering a responsive 3D simulator utilizing **React** and **Next.js**.
+* 🌐 **Architecture:** Transitioning existing local setups toward scalable RESTful APIs.
 
-#### 🌐 Languages & Logic
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
+
+### ⚙️ Core Technical Stack
+
+#### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### 🎨 Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=svg&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Adobe Express](https://img.shields.io/badge/Adobe%20Express-000000?style=flat&logo=adobe-express&logoColor=white)
-
-#### ⚙️ Backend & Environment
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Databases & Animation
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-3F4954?style=flat&logo=wampserver&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 ---
 
-### 📌 Featured Project
+### 📌 Production Work
 
-🏫 **Chi-Chia School Admission Portal** *(Private)*  
-A bilingual (English/Assamese) full-stack admission management system  
-Built with: PHP · MySQL · Vanilla JS · PHPMailer
+**Institutional Admission Portal** *(Private)*
+* Developed a complete full-stack bilingual database management system for a regional high school.
+* Engineered secure user authentication, registration workflows, and automated notification piping.
+* **Stack:** `PHP` · `MySQL` · `Vanilla JS`
 
 ---
 
