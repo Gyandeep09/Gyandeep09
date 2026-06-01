@@ -1,5 +1,6 @@
 ![Gyandeep Pixel Galaxy Banner](pixel_galaxy.png)
-# Gyandeep | Full-Stack Developer 🔰
+# Gyandeep Dehingia
+| Full-Stack Developer 🔰
 
 Dedicated to building efficient, user-centric web applications and modern digital systems.
 
