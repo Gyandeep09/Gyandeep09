@@ -3,7 +3,7 @@
 </div>
 
 # Gyandeep Dehingia
-Full-Stack Developer focused on building efficient, user-centric web applications and modern digital systems. I balance deep-tech logic with visual creativity, blending tools like Next.js with GSAP animations. <img src="GD.svg" alt="GSAP icon" width="25" />
+Full-Stack Developer focused on building efficient, user-centric web applications and modern digital systems. I balance deep-tech logic with visual creativity, blending tools like Next.js with GSAP animations. <img src="GD.svg" alt="GSAP icon" width="30" />
 
 ---
 
