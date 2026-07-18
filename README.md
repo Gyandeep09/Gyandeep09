@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
   <a href="https://gyandeepdehingia.vercel.app">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
+    <img src="myic.svg" alt="Portfolio" width="48" height="48" style="border-radius: 50%;" />
   </a>
   <a href="mailto:your.gyandeepdehingia00@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
