@@ -10,25 +10,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gyandeep09">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <a href="https://www.instagram.com/__.gyandeep__">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://www.linkedin.com/in/gyandeep-dehingia-0b97bb24a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://gyandeepdehingia.vercel.app">
+    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.gyandeepdehingia00@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
   </a>
 </p>
 
-<div align="center">
-  <!-- The Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gyandeep09/Gyandeep09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gyandeep09/Gyandeep09/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gyandeep09/Gyandeep09/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 ---
 
-### 🚀 Current Focus
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />  Current Focus
 * 🔭 I’m currently working on a responsive 3D Simulator using **React** and **Next.js.**
 * 🌱 I’m currently learning advanced architectural design patterns to build highly scalable **RESTful APIs.**
 * 👯 I’m looking to collaborate on open-source **Full-Stack Web Applications** and high-fidelity interactive UI projects.
@@ -64,9 +62,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gyandeep09&theme=dark&hide_border=false" alt="GitHub Stats" />
-</div>
+
 
 
 
