@@ -1,10 +1,22 @@
 <div align="center">
-  <img src="pixel_galaxy.png" alt="Gyandeep Banner" width="100%" height="300" />
+  <img src="cndkcb.gif" alt="Gyandeep Banner" width="100%" height="300" />
 </div>
 
-# Gyandeep Dehingia
-Full-Stack Developer focused on building efficient, user-centric web applications and modern digital systems. I balance deep-tech logic with visual creativity, blending tools like Next.js with GSAP animations. animations. <img align="center" src="GD.svg" alt="core icon" width="46" />
+<h1 align="center"><b>GYANDEEP DEHINGIA</b></h1>
+<h3 align="center">BCA grad <i>23-26</i> | Aspiring Full-Stack & DevOps</h3>
 
+<p align="center">
+  Focused on mastering web development fundamentals, building efficient digital systems, and balancing deep-tech logic with visual creativity. <img src="GD.svg" alt="myico" width="45" height="45" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gyandeep09">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 ---
 
 ### 🚀 Current Focus
