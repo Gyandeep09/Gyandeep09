@@ -36,16 +36,16 @@
 
 ---
 
-### <img src="Current%20Focus.gif" alt="Focus" width="30" height="30" /> Current Focus
+### <img src="icons_tech/Current%20Focus.gif" alt="Focus" width="30" height="30" /> Current Focus
 
-- <img src="3d%20simulation.gif" alt="3D Simulation" width="22" height="22" /> I’m currently working on a responsive 3D Simulator using **React** and **Next.js.**
-- <img src="Restful%20AP.gif" alt="REST API" width="22" height="22" /> I’m currently learning advanced architectural design patterns to build highly scalable **RESTful APIs.**
-- <img src="collab.gif" alt="Collaboration" width="22" height="22" /> I’m looking to collaborate on open-source **Full-Stack Web Applications** and high-fidelity interactive UI projects.
-- <img src="Fun%20fact.gif" alt="Fun Fact" width="22" height="22" /> **Fun fact**: I balance my deep-tech logic with visual creativity, which is why I love mixing **Next.js** with **GSAP** animation.
+- <img src="icons_tech/3d%20simulation.gif" alt="3D Simulation" width="22" height="22" /> I’m currently working on a responsive 3D Simulator using **React** and **Next.js.**
+- <img src="icons_tech/Restful%20AP.gif" alt="REST API" width="22" height="22" /> I’m currently learning advanced architectural design patterns to build highly scalable **RESTful APIs.**
+- <img src="icons_tech/collab.gif" alt="Collaboration" width="22" height="22" /> I’m looking to collaborate on open-source **Full-Stack Web Applications** and high-fidelity interactive UI projects.
+- <img src="icons_tech/Fun%20fact.gif" alt="Fun Fact" width="22" height="22" /> **Fun fact**: I balance my deep-tech logic with visual creativity, which is why I love mixing **Next.js** with **GSAP** animation.
 
 ---
 
-### <img src="Core%20Techinical%20Stack.gif" alt="Tech Stack" width="30" height="30" /> Core Technical Stack
+### <img src="icons_tech/Core%20Techinical%20Stack.gif" alt="Tech Stack" width="30" height="30" /> Core Technical Stack
 
 <details>
   <summary><b>(▀̿Ĺ̯▀̿ ̿)</b></summary>
@@ -92,7 +92,7 @@
 
 ---
 
-### <img src="production%20Work.gif" alt="Production Work" width="30" height="30" /> Production Work
+### <img src="icons_tech/production%20Work.gif" alt="Production Work" width="30" height="30" /> Production Work
 
 **Institutional Admission Portal** _(Private)_
 
