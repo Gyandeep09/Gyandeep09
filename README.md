@@ -17,22 +17,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/__.gyandeep__">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gyandeep-dehingia-0b97bb24a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gyandeepdehingia.vercel.app">
-    <img src="myic.svg" alt="Portfolio" width="40" height="40" style="border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.gyandeepdehingia00@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="40" height="40" />
-  </a>
+  <a href="https://www.instagram.com/__.gyandeep__"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/gyandeep-dehingia-0b97bb24a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40" /></a>
+  <a href="https://gyandeepdehingia.vercel.app"><img src="myic.svg" alt="Portfolio" width="40" height="40" style="border-radius: 50%;" /></a>
+  <a href="mailto:your.gyandeepdehingia00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Mail" width="40" height="40" /></a>
 </p>
+
 
 ---
 
