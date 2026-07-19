@@ -8,7 +8,12 @@
 <p align="center">
   Focused on mastering web development fundamentals, building efficient digital systems, 
   <br>and balancing deep-tech logic with visual creativity. 
-  <br><img src="Dolphin.svg" alt="myico" width="155" height="255" /><img src="Dolphin.svg" alt="myico" width="155" height="255" /><img src="Dolphin.svg" alt="myico" width="155" height="255" /><img src="Dolphin.svg" alt="myico" width="155" height="255" /><img src="Dolphin.svg" alt="myico" width="155" height="255" />
+  <br>
+  <img src="Dolphin.svg" alt="myico" width="155" height="255" />
+  <img src="Dolphin2.svg" alt="myico" width="155" height="255" />
+  <img src="Dolphin3.svg" alt="myico" width="155" height="255" />
+  <img src="Dolphin4.svg" alt="myico" width="155" height="255" />
+  <img src="Dolphin5.svg" alt="myico" width="155" height="255" />
 </p>
 
 <p align="center">
