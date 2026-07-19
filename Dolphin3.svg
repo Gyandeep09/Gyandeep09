@@ -16,7 +16,7 @@
       >
         <animate
           repeatCount="indefinite"
-          begin="-0.95s"
+          begin="-0.94s"
           calcMode="discrete"
           dur="1.568s"
           values="none; inline; inline; inline"
