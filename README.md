@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"><b>GYANDEEP DEHINGIA</b></h1>
-<h3 align="center">BCA grad <i>23-26</i> | Aspiring Full-Stack & DevOps</h3>
+<h3 align="center">MCA<i>26</i> | Aspiring Full-Stack & DevOps</h3>
 
 <p align="center">
   Focused on mastering web development fundamentals, building efficient digital systems, 
